@@ -27,7 +27,8 @@
     "secure-web-storage": "^1.0.2",
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4",
-    "yup": "^0.32.11"
+    "yup": "^0.32.11",
+    "react-router-dom": "^6.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -52,8 +53,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "react-router-dom": "^6.2.2"
   }
 }
