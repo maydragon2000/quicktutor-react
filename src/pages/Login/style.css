@@ -1,0 +1,23 @@
+.login-area , .register-area ,.resetpass-area, .verify {
+    background-color: #15151d;
+    padding-top: 190px; 
+    padding-bottom: 50px;
+}
+.login-area .remember{
+    padding-bottom: 10px !important;
+}
+.login-area .password{
+    padding-bottom: 10px !important;
+}
+.login-area .forgot{
+    padding-bottom: 20px !important;
+
+}
+.btn-login , .btn-google, .btn-register{
+    color: white !important;
+    background-color: transparent !important;
+    border-color: #6462c9 !important;
+}
+.btn-login:hover , .btn-google:hover, .btn-register:hover{
+    background-color: #6462c9 !important;
+}

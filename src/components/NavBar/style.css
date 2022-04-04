@@ -1,0 +1,65 @@
+.navbar-toggler {
+    display: inline-block !important;
+    position: absolute;
+    right: 20px;
+}
+
+.navbar {
+    width: -webkit-fill-available;
+    position: fixed;
+    z-index: 10;
+    height: 105px;
+    min-width: 470px;
+}
+
+.navbar .container {
+    justify-content: normal !important;
+}
+
+.navbar img {
+    width: 180px;
+    height: 70px;
+    margin-right: 50px;
+}
+
+.navbar .nav-Learn a {
+    font-size: 18px;
+    font-family: Lato;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 100;
+}
+
+.drop_logout {
+    display: block !important;
+    position: absolute;
+    right: 160px !important;
+    background-color: transparent !important;
+}
+
+.drop_logout .btn-secondary {
+    background-color: transparent;
+    border-color: transparent
+}
+
+.drop_logout .btn-secondary:hover {
+    background-color: transparent;
+    border-color: transparent
+}
+
+.drop_logout .btn-secondary:active {
+    background-color: transparent;
+    border-color: transparent
+}
+
+.drop_logout .btn-secondary:focus {
+    background-color: transparent;
+    border-color: transparent;
+    box-shadow: none !important;
+}
+
+.drop_logout .btn-secondary:active,
+.show>.btn-secondary.dropdown-toggle {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}

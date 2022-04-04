@@ -1,0 +1,16 @@
+.header-img img{
+    width: 167px;
+    height: 77px;
+    padding-right: 10px;
+}
+.header-img img:hover{
+    opacity: 0.8;
+}
+.footer-middle .footer-dropdown img{
+    margin-right: 20px;
+    width: 130px;
+    height: 46px;
+}
+.footer-middle .footer-dropdown img:hover{
+    opacity: 0.8;
+}

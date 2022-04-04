@@ -1,0 +1,43 @@
+.sidepanel  {
+    width: 350px;
+  position: fixed;
+  z-index: 1;
+  height:-webkit-fill-available;
+  top: 105px;
+  background-color: #12121a;
+  overflow-x: hidden;
+  transition: 0.5s;
+  color: white;
+  right: -1000px;
+}
+.sidepanel-inner{
+    padding: 30px;
+}
+.sidepanel a {
+    font-family: Lato;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: .4;
+  color: white;
+  display: block;
+  transition: 0.3s;
+  margin-bottom: 15px;
+}
+.sidepanel a:hover {
+  color: #818181;
+}
+.side-footer{
+    margin-top: 15px;
+}
+.side-footer a{
+    font-size: 12px;
+}
+.sidepanel-inner .made-with h6{
+    justify-content: center;
+}
+.sidepanel-inner .made-with h6 a{
+    display: flex;
+    align-items: center;
+    margin: 0px 10px !important;
+}

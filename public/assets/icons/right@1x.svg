@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.7889156,8.50304223 C18.0694336,8.77469766 18.0700226,9.22467203 17.79269,9.49379659 L12.1494019,15.1622669 C11.8775688,15.4454861 11.4255879,15.4454861 11.1461602,15.1648079 C10.8762227,14.8942946 10.8767899,14.4456327 11.1474964,14.1642507 L15.5945243,9.70567818 L0.700340401,9.70567818 C0.31160257,9.70567818 0,9.38695257 0,8.9954392 C0,8.60578409 0.309799016,8.29437911 0.700523648,8.29374531 L15.59474,8.29374546 L11.1461602,3.82526164 C10.8763698,3.55489572 10.8763698,3.1061827 11.1460095,2.83533652 C11.4251799,2.55491709 11.8756626,2.55451643 12.1480879,2.83636342 L17.7889156,8.50304223 Z" id="path-1"></path>
+    </defs>
+    <g id="🖥-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-547.000000, -351.000000)">
+            <g id="Arrow" transform="translate(547.000000, 349.000000)">
+                <rect id="Background" fill-rule="nonzero" x="0" y="0" width="18" height="18"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Shape" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

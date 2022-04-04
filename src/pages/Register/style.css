@@ -1,0 +1,11 @@
+.register-area .card-body form .mb-3{
+    padding-bottom: 10px;
+}
+.btn-login , .btn-google, .btn-register{
+    color: white !important;
+    background-color: transparent !important;
+    border-color: #6462c9 !important;
+}
+.btn-login:hover , .btn-google:hover, .btn-register:hover{
+    background-color: #6462c9 !important;
+}

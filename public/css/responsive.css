@@ -1,0 +1,200 @@
+@media (min-width: 1700px) and (max-width: 2000px){
+    .container {
+    max-width: 1740px !important;
+}
+}
+
+@media (min-width: 1500px) and (max-width: 1699px){
+.container {
+    max-width: 1340px !important;
+}
+}
+@media (min-width: 1300px) and (max-width: 1499px){
+.container {
+    max-width: 1240px !important;
+}
+}
+/* @media (min-width: 1028px) and (max-width: 1299px){
+.container {
+    max-width: 1440px !important;
+}
+} */
+@media only screen and (max-width: 1350px){
+    .service .row{
+        padding: 55px 20px !important;
+    }
+}
+
+@media only screen and (max-width: 1297px){
+
+    .introduce-inner{
+        padding: 0 20px;
+    }
+    
+}
+@media only screen and (max-width: 1200px){
+
+    .container{
+        max-width: 1140px;
+    }
+}
+@media only screen and (max-width: 1124px){
+    .header-img-inner{
+    padding-top: 600px ;
+}
+}
+@media only screen and (max-width: 1024px){
+    .single-introduce{
+        width: 373px;
+        margin-bottom: 20px;
+
+    }
+    .introduce-inner{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media only screen and (max-width: 992px){
+    .manufacture{
+        margin-top: 20px;
+    }
+}
+@media only screen and (max-width: 950px){
+    .nav-Learn , .nav-Teach{
+        display: none;
+    }
+}
+@media only screen and (max-width: 890px){
+    .footer-middle{
+            flex-direction: column;
+    align-items: center;
+    padding: 0px !important;
+    }
+    .footer-top{
+        border-bottom: none;
+    }
+    .footer-dropdown{
+        margin-bottom: 20px;
+    }
+    .footer-company{
+        margin-bottom: 50px;
+    }
+    .footer-icon{
+        padding: 30px 0px;
+        width: -webkit-fill-available;
+        justify-content: space-around;
+        border-top: grey solid .1px;
+        border-bottom: grey solid .1px;
+    }
+    .footer-company .green{
+        margin-left: 10px !important;
+    }
+}
+@media only screen and (max-width: 768px){
+    .white-img ,.special-img{
+        width: 160px !important;
+    }
+    .header-right{
+        display: flex;
+    }
+    .header-learn{
+        padding: 30px !important;
+        width: 50%;
+        height: 100% !important;
+    }
+    .header-teach{
+        padding: 30px !important;
+        width: 50%;
+        height: 100% !important;
+    }
+    .header-learn h2, .header-teach h2{
+        font-size: 28px !important;
+    }
+    .dropbtn{
+        display: none !important;
+    }
+    .navbar .container{
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .navbar{
+        padding-right: 0px !important;
+    }
+    .header-img-inner{
+        padding-top: 400px ;
+    }
+    .header{
+        height: 650px !important;
+
+    }
+    .header-right{
+        height: 190px !important;
+    }
+    .header-img{
+        background-size: 100% 150% !important;
+        background-position: center;
+    }
+    .single .up img{
+    /* width: 331px !important; */
+    height: 112px !important;
+}
+    .single-direction{
+        /* width: 331px; */
+        height: 168px;
+    }
+    .category-mobile{
+        display: flex !important;
+    }
+    .category{
+        display: none !important;
+    }
+    .footer-top a{
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .footer-top-single{
+        margin-bottom: 20px;
+    }
+}
+@media only screen and (max-width: 576px){
+    .navbar{
+        padding-top: 0px !important;
+    }
+    .header-learn h2, .header-teach h2{
+        font-size: 20px !important;
+    }
+    .service .service-img img{
+        padding-bottom: 20px;
+    }
+    .service h3{
+        font-size: 19px;
+        font-weight: 600;
+    }
+    .service-description p{
+        font-weight: 400;
+        padding-bottom: 0px !important;
+    }
+    .service-description{
+        margin-bottom: 20px;
+    }
+    .service .row{
+        padding-bottom: 20px !important;
+    }
+    .sidepanel{
+        width: -webkit-fill-available !important;
+    }
+    .login{
+        right: 200px!important;
+    }
+    .Register{
+        right: 80px !important;
+    }
+    .logout-drop{
+        right: 80px !important;
+    }
+}
+@media only screen and (max-width: 405px){
+    .single-introduce{
+        width: 250px !important;
+    }
+}
